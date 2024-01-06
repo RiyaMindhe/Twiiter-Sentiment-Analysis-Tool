@@ -41,12 +41,12 @@ Using deep learning is another level higher: these models have achieved state-of
 
 -Run nltk.download('twitter_samples') to download the twitter_samples dataset  
 -Split the data into both training and test sets, as well as training and test labelled data. Use the following parameters for your train_test_split function:  
-    test_size=0.25  
-    random_state=42  
+     test_size=0.25  
+     random_state=42  
 -Instantiate a TF-IDF vectorizer with the following parameters:  
-   ngram_range=(1, 3)  
-   min_df=5  
-   max_df=0.8  
+     ngram_range=(1, 3)  
+     min_df=5  
+     max_df=0.8  
 -Fit and transform the training data  
 -Transform the test data  
 -Initialize the logistic regression classifier and train it  
