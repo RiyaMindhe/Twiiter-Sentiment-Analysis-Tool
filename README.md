@@ -50,10 +50,13 @@ Using deep learning is another level higher: these models have achieved state-of
 - Fit and transform the training data  
 - Transform the test data  
 - Initialize the logistic regression classifier and train it  
-- Use the trained classifier to predict the 5 given tweets and determine if they are positive or negative  
+- Use the trained classifier to predict the 5 given tweets and determine if they are positive or negative
+
 
 
 ![image](https://github.com/RiyaMindhe/Twiiter-Sentiment-Analysis-Tool/assets/84629433/93271c9f-6824-4ea4-8382-1e836be9e676)
+
+
 
 
 
